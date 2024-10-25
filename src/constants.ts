@@ -10,3 +10,4 @@ export const WATCHLIST: Stock[] = [
   { symbol: 'TSLA', name: 'Tesla Inc.' },
   { symbol: 'AMD', name: 'Advanced Micro Devices' }
 ];
+
